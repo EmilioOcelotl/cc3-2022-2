@@ -6,9 +6,8 @@
 
 - [ ] Sesión 01 - Repaso
   - Acuerdos y [presentación](https://ocelotl.cc/) 
-  - ¿ Qué es Processing ?
-  - Sistema de coordenadas
-  - Tipos de dato, números y operaciones
+  - ¿ Qué es [Processing](https://processing.org/) ?
+  - [Sistema de coordenadas](https://processing.org/tutorials/coordinatesystemandshapes), números y operaciones
   - Funciones sencillas: forma, color
 
 ## Salidas de aprendizaje
