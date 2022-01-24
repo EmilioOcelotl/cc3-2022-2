@@ -1,20 +1,27 @@
-# Código Creativo | Tercer Semestre | 2021-II
+# Código Creativo | Tercer Semestre | 2022-II
 
 **Objetivo:** Aplicar procesos algorítmicos para la conceptualización y realización de productos digitales de diseño y arte mediante programación orientada a objetos.
 
 ## Sesiones
 
-- [ ] Sesión 01 - Repaso
-  - Acuerdos y [presentación](https://ocelotl.cc/) 
+- [ ] Sesión 01 - Repaso I 
+  - Acuerdos y [presentación](https://ocelotl.cc/)
   - ¿ Qué es [Processing](https://processing.org/) ?
   - [Sistema de coordenadas](https://processing.org/tutorials/coordinatesystemandshapes), números y operaciones
   - Funciones sencillas: forma, color
+
+- [ ] Sesión 02 - Repaso II
+  - Relación setup() y draw() 
+  - Arreglos 
+  - Iteraciones 
 
 ## Salidas de aprendizaje
 
 - Analizar el uso del código creativo en proyectos profesionales donde la creatividad computacional es parte fundamental de su conceptualización.
 - Explicar conceptos elementales de programación orientada a objetos: clases, objetos, métodos, eventos.
 - Utilizar el código creativo en contextos de lenguaje visual, animación simple y manipulación de imágenes en movimiento.
+
+- Adicionalmente: 
 
 ## Evaluación
 
