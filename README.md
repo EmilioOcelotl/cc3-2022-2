@@ -5,6 +5,7 @@
 ## Sesiones
 
 - [ ] Sesión 01 - Repaso
+  - Acuerdos y [presentación](https://ocelotl.cc/) 
   - ¿ Qué es Processing ?
   - Sistema de coordenadas
   - Tipos de dato, números y operaciones
