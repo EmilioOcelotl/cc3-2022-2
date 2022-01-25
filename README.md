@@ -4,7 +4,7 @@
 
 ## Sesiones
 
-- [ ] Sesión 01 - Repaso I 
+- [x] Sesión 01 - Repaso I [Código](https://gist.github.com/EmilioOcelotl/751a87048a059c0872e79805f7a8e439) [Video](https://drive.google.com/file/d/1WoJA-Dkz-2ZK_7FJzvuvwNz5vC3SWUw-/view?usp=sharing)
   - Acuerdos y [presentación](https://ocelotl.cc/)
   - ¿ Qué es [Processing](https://processing.org/) ?
   - [Sistema de coordenadas](https://processing.org/tutorials/coordinatesystemandshapes), números y operaciones
