@@ -10,12 +10,14 @@
   - [Sistema de coordenadas](https://processing.org/tutorials/coordinatesystemandshapes), números y operaciones
   - Funciones sencillas: forma, color
 
-- [ ] Sesión 02 - Repaso II
+- [ ] Sesión 02 - Repaso 2 y PImage
+  - Repaso y nuevos temas simultáneamente
+  - Variables y tipos de datos
   - Relación setup() y draw()
-  - Variables y tipos de dato
-  - if()
-  - Arreglos 
-  - Iteraciones 
+  - keyPressed e if()
+  - Próximo lunes - asueto 
+
+- [ ] Sesión 03 - PImage y pixeles 
 
 ## Salidas de aprendizaje
 
