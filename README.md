@@ -13,11 +13,12 @@
 - [ ] Sesión 02 - Repaso 2 y PImage
   - Repaso y nuevos temas simultáneamente
   - Variables y tipos de datos
-  - Relación setup() y draw()
-  - keyPressed e if()
+  - Relación [setup() y draw()](https://processing.org/examples/setupdraw.html)
+  - [keyPressed](https://processing.org/reference/keyPressed_.html) e [if()](https://processing.org/reference/if.html)
   - Próximo lunes - asueto 
 
-- [ ] Sesión 03 - PImage y pixeles 
+- [ ] Sesión 03 - Imágenes y pixeles
+  - Primera entrega: ejercicio con el código de la sesión pasada
 
 ## Salidas de aprendizaje
 
