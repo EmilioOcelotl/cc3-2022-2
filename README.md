@@ -4,14 +4,16 @@
 
 ## Sesiones
 
-- [x] Sesión 01 - Repaso I [Código](https://gist.github.com/EmilioOcelotl/751a87048a059c0872e79805f7a8e439) [Video](https://drive.google.com/file/d/1WoJA-Dkz-2ZK_7FJzvuvwNz5vC3SWUw-/view?usp=sharing)
+- [x] Sesión 01 - Repaso 1 | [Código](https://gist.github.com/EmilioOcelotl/751a87048a059c0872e79805f7a8e439) | [Video](https://drive.google.com/file/d/1WoJA-Dkz-2ZK_7FJzvuvwNz5vC3SWUw-/view?usp=sharing)
   - Acuerdos y [presentación](https://ocelotl.cc/)
   - ¿ Qué es [Processing](https://processing.org/) ?
   - [Sistema de coordenadas](https://processing.org/tutorials/coordinatesystemandshapes), números y operaciones
   - Funciones sencillas: forma, color
 
 - [ ] Sesión 02 - Repaso II
-  - Relación setup() y draw() 
+  - Relación setup() y draw()
+  - Variables y tipos de dato
+  - if()
   - Arreglos 
   - Iteraciones 
 
@@ -21,7 +23,7 @@
 - Explicar conceptos elementales de programación orientada a objetos: clases, objetos, métodos, eventos.
 - Utilizar el código creativo en contextos de lenguaje visual, animación simple y manipulación de imágenes en movimiento.
 
-- Adicionalmente: 
+- Adicionalmente: Aproximación con glitch art 
 
 ## Evaluación
 
