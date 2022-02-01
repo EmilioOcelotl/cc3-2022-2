@@ -10,7 +10,7 @@
   - [Sistema de coordenadas](https://processing.org/tutorials/coordinatesystemandshapes), números y operaciones
   - Funciones sencillas: forma, color
 
-- [ ] Sesión 02 - Repaso 2 y PImage
+- [x] Sesión 02 - Repaso 2 y PImage | [Código](https://gist.github.com/EmilioOcelotl/0f53b6c74e5cc3d0899fba3e7895cbce) | [Video](https://drive.google.com/file/d/1J_0uiYch3TtTzsyvd6r-5UtAW74AxhrZ/view?usp=sharing) 
   - Repaso y nuevos temas simultáneamente
   - Variables y tipos de datos
   - Relación [setup() y draw()](https://processing.org/examples/setupdraw.html)
