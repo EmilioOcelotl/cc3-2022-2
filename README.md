@@ -22,7 +22,7 @@
   - [PImage](https://processing.org/reference/PImage.html) e imágenes en Processing
   - Función [image](https://processing.org/reference/image_.html) con 3 y 5 parámetros
   - Relación entre tamaño del canvas e imágenes 
-  - Filtros con (tint)[https://processing.org/reference/tint_.html] y objetos con transparencia
+  - Filtros con [tint](https://processing.org/reference/tint_.html) y objetos con transparencia
 
 - [ ] Sesión 04 - Primera entrega 
 
