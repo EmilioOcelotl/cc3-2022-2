@@ -18,7 +18,13 @@
   - Próximo lunes - asueto 
 
 - [ ] Sesión 03 - Imágenes y pixeles
-  - Primera entrega: ejercicio con el código de la sesión pasada
+  - Introducción al [procesamiento de imágenes](https://processing.org/tutorials/pixels)  
+  - [PImage](https://processing.org/reference/PImage.html) e imágenes en Processing
+  - Función [image](https://processing.org/reference/image_.html) con 3 y 5 parámetros
+  - Relación entre tamaño del canvas e imágenes 
+  - Filtros con (tint)[https://processing.org/reference/tint_.html] y objetos con transparencia
+
+- [ ] Sesión 04 - Primera entrega 
 
 ## Salidas de aprendizaje
 
