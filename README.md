@@ -26,14 +26,17 @@
   - Relación entre tamaño del canvas e imágenes 
   - Filtros con [tint](https://processing.org/reference/tint_.html) y objetos con transparencia
 
-- [ ] Sesión 04 - Colores y pixeles
-  - Primera entrega
-    - Substracción y adición con colores
+- [x] Sesión 04 - Colores y pixeles | [Código](https://gist.github.com/EmilioOcelotl/dd16f5f08caa7708645212ccef2774e3) | [Video](https://drive.google.com/drive/u/1/folders/1fJ-GFhkQsocI28gveEUfLlLa_I5gb81o)
+  - Primera entrega > [Código inicial]()
+    - colores
     - Repetición de imagen con combinaciones de filtrado
   - Clase [PImage](https://processing.org/reference/PImage.html) y [lectura de pixeles](https://processing.org/tutorials/pixels)
     - Método .get()
 
-- [ ] Sesión 05 - Repaso de for() 
+- [ ] Sesión 05 - Puntillismo y for()
+  - Repaso estructura for()
+  - Puntillismo
+  - Repetición 
 
 ## Salidas de aprendizaje
 
