@@ -19,14 +19,18 @@
   - [keyPressed](https://processing.org/reference/keyPressed_.html) e [if()](https://processing.org/reference/if.html)
   - Próximo lunes - asueto 
 
-- [x] Sesión 03 - Imágenes y pixeles | [Código](https://gist.github.com/EmilioOcelotl/bd837c6758ff6fb810d05d0872fb01e3) | [Video](https://drive.google.com/file/d/1K6pEsdevtW8X2bGjoADdQEasYPn3ClTa/view?usp=sharing) 
+- [x] Sesión 03 - Imágenes y filtros | [Código](https://gist.github.com/EmilioOcelotl/bd837c6758ff6fb810d05d0872fb01e3) | [Video](https://drive.google.com/file/d/1K6pEsdevtW8X2bGjoADdQEasYPn3ClTa/view?usp=sharing) 
   - Introducción al [procesamiento de imágenes](https://processing.org/tutorials/pixels)  
   - [PImage](https://processing.org/reference/PImage.html) e imágenes en Processing
   - Función [image](https://processing.org/reference/image_.html) con 3 y 5 parámetros
   - Relación entre tamaño del canvas e imágenes 
   - Filtros con [tint](https://processing.org/reference/tint_.html) y objetos con transparencia
 
-- [ ] Sesión 04 - Primera entrega 
+- [ ] Sesión 04 - Colores y pixeles
+  - Primera entrega
+    - Substracción y adición con colores
+    - Repetición de imagen con combinaciones de filtrado
+  - Clase PImage y lectura de pixeles
 
 ## Salidas de aprendizaje
 
