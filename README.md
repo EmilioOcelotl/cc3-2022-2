@@ -30,7 +30,10 @@
   - Primera entrega
     - Substracción y adición con colores
     - Repetición de imagen con combinaciones de filtrado
-  - Clase PImage y lectura de pixeles
+  - Clase [PImage](https://processing.org/reference/PImage.html) y [lectura de pixeles](https://processing.org/tutorials/pixels)
+    - Método .get()
+
+- [ ] Sesión 05 - Repaso de for() 
 
 ## Salidas de aprendizaje
 
