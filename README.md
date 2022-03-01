@@ -27,16 +27,23 @@
   - Filtros con [tint](https://processing.org/reference/tint_.html) y objetos con transparencia
 
 - [x] Sesión 04 - Colores y pixeles | [Código](https://gist.github.com/EmilioOcelotl/dd16f5f08caa7708645212ccef2774e3) | [Video](https://drive.google.com/drive/u/1/folders/1fJ-GFhkQsocI28gveEUfLlLa_I5gb81o)
-  - Primera entrega > [Código inicial]()
+  - Primera entrega > [Código inicial](https://gist.github.com/EmilioOcelotl/bd837c6758ff6fb810d05d0872fb01e3)
     - colores
     - Repetición de imagen con combinaciones de filtrado
   - Clase [PImage](https://processing.org/reference/PImage.html) y [lectura de pixeles](https://processing.org/tutorials/pixels)
     - Método .get()
 
-- [ ] Sesión 05 - Puntillismo y for()
+- [ ] Sesión 05 - Puntillismo y for() | [Código](https://gist.github.com/EmilioOcelotl/9502edb947f6bc617db354f59c9e32a2) | [Video](https://drive.google.com/file/d/17wMDCQk0hQuaNUAZdsAnsNB8W0AG_N9P/view?usp=sharing) 
   - Repaso estructura for()
-  - Puntillismo
   - Repetición 
+  - Puntillismo
+
+- [ ] Sesión 06 - Entrega 2 e introducción a pixeles
+  - ¿Qué otras posibilidades hay? 
+
+## Actividades y entregas
+
+- [x] 21.02.2022.- Entrega en Brightspace de imagenes filtradas. [Código](https://gist.github.com/EmilioOcelotl/bd837c6758ff6fb810d05d0872fb01e3) 
 
 ## Salidas de aprendizaje
 
