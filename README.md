@@ -33,13 +33,19 @@
   - Clase [PImage](https://processing.org/reference/PImage.html) y [lectura de pixeles](https://processing.org/tutorials/pixels)
     - Método .get()
 
-- [ ] Sesión 05 - Puntillismo y for() | [Código](https://gist.github.com/EmilioOcelotl/9502edb947f6bc617db354f59c9e32a2) | [Video](https://drive.google.com/file/d/17wMDCQk0hQuaNUAZdsAnsNB8W0AG_N9P/view?usp=sharing) 
+- [x] Sesión 05 - Puntillismo y for() | [Código](https://gist.github.com/EmilioOcelotl/9502edb947f6bc617db354f59c9e32a2) | [Video](https://drive.google.com/file/d/17wMDCQk0hQuaNUAZdsAnsNB8W0AG_N9P/view?usp=sharing) 
   - Repaso estructura for()
   - Repetición 
   - Puntillismo
 
 - [ ] Sesión 06 - Entrega 2 e introducción a pixeles
-  - ¿Qué otras posibilidades hay? 
+  - ¿Qué otras posibilidades hay?
+  - Ejemplo: asociar brillo a algún otro parámetro
+    - Uso de map
+  - Repaso de iteraciones con for()
+  - Entrega 
+  - Introducción a pixeles con iteraciones dobles y cuadrados
+  - Si da tiempo: el mismo ejercicio pero con pixeles 
 
 ## Actividades y entregas
 
