@@ -38,7 +38,7 @@
   - Repetición 
   - Puntillismo
 
-- [ ] Sesión 06 - Entrega 2 e introducción a pixeles
+- [x] Sesión 06 - Entrega 2 e introducción a pixeles | [Código](https://gist.github.com/EmilioOcelotl/2bbeef8bfdf2d6ea1c8000e29d45fdbb) | [Video](https://drive.google.com/file/d/1Rj743YjH2oNJhAlrS_R-Eo5RchFXwd61/view?usp=sharing)
   - ¿Qué otras posibilidades hay?
   - Ejemplo: asociar brillo a algún otro parámetro
     - Uso de map
