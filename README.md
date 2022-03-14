@@ -47,7 +47,7 @@
   - Introducción a pixeles con iteraciones dobles y cuadrados
   - Si da tiempo: el mismo ejercicio pero con pixeles 
 
--  [ ] Sesión 07 - Pixeles
+- [ ] Sesión 07 - Pixeles
   - ¿Cómo se ordenan los pixeles en la computadora?
   - [createImage](https://processing.org/reference/createImage_.html)
   - load y updatePixels 
