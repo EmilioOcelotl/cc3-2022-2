@@ -47,6 +47,13 @@
   - Introducción a pixeles con iteraciones dobles y cuadrados
   - Si da tiempo: el mismo ejercicio pero con pixeles 
 
+-  [ ] Sesión 07 - Pixeles
+  - ¿Cómo se ordenan los pixeles en la computadora?
+  - [createImage](https://processing.org/reference/createImage_.html)
+  - load y updatePixels 
+  - iteraciones y el traslado a [2d](https://processing.org/tutorials/pixels)
+  - Colores fijos y gradientes  
+
 ## Actividades y entregas
 
 - [x] 21.02.2022.- Entrega en Brightspace de imagenes filtradas. [Código](https://gist.github.com/EmilioOcelotl/bd837c6758ff6fb810d05d0872fb01e3) 
