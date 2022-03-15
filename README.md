@@ -47,12 +47,14 @@
   - Introducción a pixeles con iteraciones dobles y cuadrados
   - Si da tiempo: el mismo ejercicio pero con pixeles 
 
-- [ ] Sesión 07 - Pixeles
+- [x] Sesión 07 - Pixeles [Código](https://gist.github.com/EmilioOcelotl/a9f8ef6a11ebc8cf0f810fb312699bf1#file-gradientes) | [Video](https://drive.google.com/file/d/1055F8Xlzri1cTsPSuKpJzmz_GHNy48Zh/view?usp=sharing)
   - ¿Cómo se ordenan los pixeles en la computadora?
   - [createImage](https://processing.org/reference/createImage_.html)
   - load y updatePixels 
   - iteraciones y el traslado a [2d](https://processing.org/tutorials/pixels)
   - Colores fijos y gradientes  
+
+- [ ] Sesión 08 - Pixeles, gradientes y clases 
 
 ## Actividades y entregas
 
