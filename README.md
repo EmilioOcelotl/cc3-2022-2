@@ -54,7 +54,7 @@
   - iteraciones y el traslado a [2d](https://processing.org/tutorials/pixels)
   - Colores fijos y gradientes  
 
-- [ ] Sesión 08 - Pixeles, iteraciones y negativos
+- [ ] Sesión 08 - Pixeles, iteraciones y negativos | [Video](https://drive.google.com/file/d/1pfRTMYFk253mHXinQrE0nLSw3Y95-Z-A/view?usp=sharing) 
   - Escribir y explicar un código inicial 
   - Leer una imagen con loadPixels y updatePixeles
   - Modificaciones locales 
