@@ -54,13 +54,32 @@
   - iteraciones y el traslado a [2d](https://processing.org/tutorials/pixels)
   - Colores fijos y gradientes  
 
-- [ ] Sesión 08 - Pixeles, iteraciones y negativos | [Video](https://drive.google.com/file/d/1pfRTMYFk253mHXinQrE0nLSw3Y95-Z-A/view?usp=sharing) 
+- [x] Sesión 08 - Pixeles, iteraciones y negativos | [Video](https://drive.google.com/file/d/1pfRTMYFk253mHXinQrE0nLSw3Y95-Z-A/view?usp=sharing) 
   - Escribir y explicar un código inicial 
   - Leer una imagen con loadPixels y updatePixeles
   - Modificaciones locales 
   - Probar con intercambio de canales de color
   - Negativo
   - Resultado como segunda entrega 
+
+- [x] Sesión 09 - Pixeles y desfase | [Video](https://drive.google.com/file/d/1qLfY1cAhpe7xwoCIicEFJxg02dpyrjhC/view?usp=sharing) | [Código](https://gist.github.com/EmilioOcelotl/cada7eda6ca519ab242965a605c5b934)
+
+  - Entrega Final
+  - Procesamiento de imagen
+  - Resultado final (colección de imágenes procesadas)
+    - Archivos que existen en la compu
+      - filtro ( rango de corte RGBA ) 
+      - obtener negativos 
+      - escala de grises 
+      - transformaciones glitch 
+      - animación 
+    - Imágenes sintéticas 
+      - noise random 
+      - x, y, z (color)
+      - animación 
+      - CC4
+  - Programación orientada a objetos 
+    - Construir clases 
 
 ## Actividades y entregas
 
