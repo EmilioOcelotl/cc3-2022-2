@@ -81,6 +81,14 @@
   - Programación orientada a objetos 
     - Construir clases 
 
+- [x] Sesión 10 | [Video](https://drive.google.com/file/d/194hKczI-U4BSiNb4S4zrGolw4hOdjSeB/view?usp=sharing) | [Código](https://gist.github.com/EmilioOcelotl/3f066a75702720a1b9b29207be6533ff)
+
+  - Repaso
+  - Pixeles y fors anidados 
+  - Noise,aleatoriedad, iteraciones y pixeles 
+  - Síntesis (gradientes) / materiales concretos (desfase de pixeles) 
+  - Mezcla 
+
 ## Actividades y entregas
 
 - [x] 21.02.2022.- Entrega en Brightspace de imagenes filtradas. [Código](https://gist.github.com/EmilioOcelotl/bd837c6758ff6fb810d05d0872fb01e3) 
