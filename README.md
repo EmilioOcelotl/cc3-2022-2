@@ -89,6 +89,14 @@
   - Síntesis (gradientes) / materiales concretos (desfase de pixeles) 
   - Mezcla 
 
+- [x] Sesión 11 | [Video](https://drive.google.com/file/d/1Choqu8qG4F5VuA0Gji7h0a4i3APiM98-/view?usp=sharing) | [Código](https://gist.github.com/EmilioOcelotl/16a8d16d24b0339e646d322e9ae8498d)
+
+  - Entrega > 
+  - Compartir el código y variaciones
+  - Manipulación pixeles noise 
+  - Noise, varias imágenes
+  - Collage
+
 ## Actividades y entregas
 
 - [x] 21.02.2022.- Entrega en Brightspace de imagenes filtradas. [Código](https://gist.github.com/EmilioOcelotl/bd837c6758ff6fb810d05d0872fb01e3) 
