@@ -97,6 +97,19 @@
   - Noise, varias imágenes
   - Collage
 
+- [x] Sesión 12 | [Video](https://drive.google.com/file/d/1WxEY1OfLRTgYU3B7XHSup1L89PUgwOxa/view?usp=sharing) | [Código](https://gist.github.com/EmilioOcelotl/170a18c330492a83f0a088467b9559a9)
+
+- Cierre y entregas pendientes 
+- Tipos de datos 
+- Imagen y Programación orientada a objetos
+- Clase, objetos, métodos y atributos 
+- Clase PImage y clase Capture > Video
+  - hardware y software
+  - instalar la librería
+  - importación de librerías 
+- imagenes fijas y imagen en movimiento 
+- Ejericio sencillo con tint 
+- Si da tiempo, con transformación de pixeles
 ## Actividades y entregas
 
 - [x] 21.02.2022.- Entrega en Brightspace de imagenes filtradas. [Código](https://gist.github.com/EmilioOcelotl/bd837c6758ff6fb810d05d0872fb01e3) 
