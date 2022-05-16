@@ -111,7 +111,7 @@
   - Ejericio sencillo con tint 
   - Si da tiempo, con transformación de pixeles
 
-- [ ] Sesión 13
+- [x] Sesión 13 | [Código profundidad](https://gist.github.com/EmilioOcelotl/5eec7af27e0500c3189ae7fc6f52ae61) | [Código clase](https://gist.github.com/EmilioOcelotl/76985287e626d8b66d5c7691d08ff7e6) | [Video](https://drive.google.com/file/d/123FqwuJWWFzsGOH8tK7leaid-wmTKcVs/view?usp=sharing)
 
   - Clase, objeto, método y atributo
   - Con manzanas
